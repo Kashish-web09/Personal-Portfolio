@@ -253,10 +253,8 @@ font-size: 18px;
 }
 
 .eductaion-card:hover{
-      background-color: royalblue;
     transform: translateY(-4px);
     transition: all 0.3s ease;
-    color: white;
     
 cursor: default;
 }
@@ -412,3 +410,4 @@ cursor: default;
     justify-content: center;
   }
 }
+
